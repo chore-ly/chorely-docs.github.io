@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chorely]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>chorely</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 19 Aug 2024 03:34:02 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 19 Aug 2024 03:34:00 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2024-08-18]]></title><description><![CDATA[<a class="tag" href="?query=tag:admin" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#admin</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:implementation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#implementation</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> 
+ <br><br>
+<br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a>
+
+<br>Initial project management assessment
+
+<br>Setup repository
+
+<br>Patch @react-native to strip flow types since web transpilation is tricky with SWC
+
+
+<br><a data-href="Account Sign Up" href="/account-sign-up.html" class="internal-link" target="_self" rel="noopener">Account Sign Up</a>
+
+<br>Decide on <a data-href="Cognito" href="/Cognito" class="internal-link" target="_self" rel="noopener">Cognito</a> constraints 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
+<br>Subtasks
+
+<br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
+
+<br>Example
+
+<br>Email
+<br>Phone
+<br>First Name
+<br>Last Name
+<br>Etc
+
+
+<br>These will be attached to their security token
+
+
+<br><a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a>
+
+<br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
+<br>Needs to map require attributes correctly
+
+<br>i.e. Double check to make sure we have sufficient permission on the <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a>
+
+
+<br>See here
+
+<br><a rel="noopener" class="external-link" href="https://docs.amplify.aws/react/build-a-backend/auth/concepts/external-identity-providers/" target="_blank">https://docs.amplify.aws/react/build-a-backend/auth/concepts/external-identity-providers/</a>
+<br><a data-href="Facebook" href="/Facebook" class="internal-link" target="_self" rel="noopener">Facebook</a>
+<br><a data-href="Google" href="/Google" class="internal-link" target="_self" rel="noopener">Google</a>
+<br><a data-href="Apple" href="/Apple" class="internal-link" target="_self" rel="noopener">Apple</a>
+<br><a data-href="Amazon" href="/Amazon" class="internal-link" target="_self" rel="noopener">Amazon</a>
+
+
+
+
+<br><a data-href="Self-Hosted IDP" href="/Self-Hosted IDP" class="internal-link" target="_self" rel="noopener">Self-Hosted IDP</a>
+
+<br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
+
+<br>Allow phone, email, or both
+
+
+<br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
+
+<br>Mandatory or Optional
+<br>Phone number MFA requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a>
+
+<br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a>
+
+
+
+
+
+
+
+
+
+
+<br><a data-href="Account Invite" href="/account-invite.html" class="internal-link" target="_self" rel="noopener">Account Invite</a>
+
+<br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a>
+
+<br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a>
+
+
+
+
+<br><a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a>
+
+<br>Create mocks for <a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a>
+
+
+<br><a data-href="App Initialization" href="/app-initialization.html" class="internal-link" target="_self" rel="noopener">App Initialization</a>
+
+<br>Determine if <a data-href="Offline Support" href="/Offline Support" class="internal-link" target="_self" rel="noopener">Offline Support</a> is required 📅 2024-09-18 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
+
+<br><a data-href="Amplify" href="/Amplify" class="internal-link" target="_self" rel="noopener">Amplify</a> Gen 2 does not have documentation for this yet
+
+
+
+
+
+
+
+
+]]></description><link>personal/daily/2024-08-18.html</link><guid isPermaLink="false">personal/daily/2024-08-18.md</guid><pubDate>Mon, 19 Aug 2024 02:39:27 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Flow
+<br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br><br><br><br>&lt;span&gt;-&lt;/span&gt;<br>]]></description><link>account-credentials-entry.html</link><guid isPermaLink="false">Account Credentials Entry.md</guid><pubDate>Mon, 19 Aug 2024 00:58:51 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Flow
+<br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br><br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a><br>Initial project management assessment<br><a data-href="Account Invite" href="/account-invite.html" class="internal-link" target="_self" rel="noopener">Account Invite</a><br>
+<br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a>
+
+<br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a>
+
+
+<br><br><br>&lt;span&gt;-&lt;/span&gt;<br>]]></description><link>account-invite.html</link><guid isPermaLink="false">Account Invite.md</guid><pubDate>Mon, 19 Aug 2024 00:59:59 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Flow
+<br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br>Create mocks for <a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a><br><br><br><br><br><br>(No mocks found)<br>]]></description><link>account-self-service.html</link><guid isPermaLink="false">Account Self-Service.md</guid><pubDate>Mon, 19 Aug 2024 01:00:48 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br><br><br><br>&lt;span&gt;-&lt;/span&gt;<br>]]></description><link>account-sign-up.html</link><guid isPermaLink="false">Account Sign Up.md</guid><pubDate>Mon, 19 Aug 2024 00:57:51 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Flow
+<br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br><br><br><br>(No mocks found)<br>]]></description><link>app-initialization.html</link><guid isPermaLink="false">App Initialization.md</guid><pubDate>Mon, 19 Aug 2024 02:09:40 GMT</pubDate></item><item><title><![CDATA[To Refine]]></title><description><![CDATA[ 
+ <br><br><br><br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br>Decide on <a data-href="Cognito" href="/Cognito" class="internal-link" target="_self" rel="noopener">Cognito</a> constraints 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Example<br>Email<br>Phone<br>First Name<br>Last Name<br>Etc<br>These will be attached to their security token<br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Allow phone, email, or both<br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Mandatory or Optional<br>Phone number MFA requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a><br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a><br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a><br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a><br>Create mocks for <a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a><br>Determine if <a data-href="Offline Support" href="/Offline Support" class="internal-link" target="_self" rel="noopener">Offline Support</a> is required 📅 2024-09-18 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br><a data-href="Amplify" href="/Amplify" class="internal-link" target="_self" rel="noopener">Amplify</a> Gen 2 does not have documentation for this yet<br><br><br><br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a><br>Initial project management assessment<br><a data-href="Account Sign Up" href="/account-sign-up.html" class="internal-link" target="_self" rel="noopener">Account Sign Up</a><br>
+<br>Decide on <a data-href="Cognito" href="/Cognito" class="internal-link" target="_self" rel="noopener">Cognito</a> constraints 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
+<br>Subtasks<br>
+<br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
+
+<br>Example
+
+<br>Email
+<br>Phone
+<br>First Name
+<br>Last Name
+<br>Etc
+
+
+<br>These will be attached to their security token
+
+
+<br>Email<br>Phone<br>First Name<br>Last Name<br>Etc<br><a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a><br>
+<br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
+<br><a data-href="Self-Hosted IDP" href="/Self-Hosted IDP" class="internal-link" target="_self" rel="noopener">Self-Hosted IDP</a><br>
+<br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
+
+<br>Allow phone, email, or both
+
+
+<br>
+<br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
+
+<br>Mandatory or Optional
+<br>Phone number MFA requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a>
+
+<br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a>
+
+
+
+
+<br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a><br><a data-href="Account Invite" href="/account-invite.html" class="internal-link" target="_self" rel="noopener">Account Invite</a><br>
+<br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a>
+
+<br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a>
+
+
+<br><a data-href="App Initialization" href="/app-initialization.html" class="internal-link" target="_self" rel="noopener">App Initialization</a><br>
+<br>Determine if <a data-href="Offline Support" href="/Offline Support" class="internal-link" target="_self" rel="noopener">Offline Support</a> is required 📅 2024-09-18 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
+
+<br><a data-href="Amplify" href="/Amplify" class="internal-link" target="_self" rel="noopener">Amplify</a> Gen 2 does not have documentation for this yet
+
+
+]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Mon, 19 Aug 2024 02:50:56 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-tooltip-position="top" aria-label="Login Flow.canvas" data-href="Login Flow.canvas" href="/login-flow.html" class="internal-link" target="_self" rel="noopener">Login Flow</a>
+<br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br>Create mocks for <a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a><br><br><br><br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a><br>Initial project management assessment<br><a data-href="Account Invite" href="/account-invite.html" class="internal-link" target="_self" rel="noopener">Account Invite</a><br>
+<br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a>
+
+<br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a>
+
+
+<br><br><br>(No mocks found)<br>]]></description><link>login.html</link><guid isPermaLink="false">Login.md</guid><pubDate>Mon, 19 Aug 2024 00:37:28 GMT</pubDate></item></channel></rss>

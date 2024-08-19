@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Login Flow.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Login Flow.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Login Flow.canvas"
               }
             }
           },
@@ -162,17 +162,60 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e003d824ebdab13",
+  "floating": {
+    "id": "fa8c5f49ad44de91",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8546bc94b049d4e1",
+        "type": "window",
+        "children": [
+          {
+            "id": "5b23b89b39048c97",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5fc71c9ae0641d34",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Login Flow.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 10,
+        "y": 740,
+        "width": 1265,
+        "height": 690,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5fc71c9ae0641d34",
   "lastOpenFiles": [
-    "personal/daily/2024-08-18.md",
-    "Home.md",
-    "Login Flow.canvas",
     "Login.md",
+    "Home.md",
     "App Initialization.md",
     "Account Sign Up.md",
     "Account Self-Service.md",
     "Account Invite.md",
     "Account Credentials Entry.md",
+    "public",
+    "untitled folder",
+    "test",
+    "personal/daily/2024-08-18.md",
+    "Login Flow.canvas",
     "templates/km/content.md",
     "Excalidraw/Drawing 2024-08-18 13.10.11.excalidraw.md",
     "templates/km/embedded mock.md",
@@ -184,10 +227,7 @@
     "code/node_modules/obsidian-typings/tsdoc.json",
     "code/node_modules/obsidian-typings/README.md",
     "code/node_modules/obsidian-typings/api-extractor.json",
-    "code/node_modules/obsidian-typings/package.json",
     "code/node_modules/obsidian-typings/CHANGELOG.md",
-    "code/node_modules/obsidian-typings/LICENSE",
-    "code/node_modules/obsidian-typings/dist",
     "code/node_modules/obsidian-jira-issue/docs-gen/static/img/jira-count1.png",
     "code/node_modules/obsidian-jira-issue/docs-gen/static/img/home-easy-to-use1.png",
     "code/node_modules/obsidian-jira-issue/docs-gen/static/img/dark-mode1.png",
