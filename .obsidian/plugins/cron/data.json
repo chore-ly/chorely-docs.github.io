@@ -1,0 +1,25 @@
+{
+  "cronInterval": 1,
+  "runOnStartup": true,
+  "enableMobile": true,
+  "watchObsidianSync": true,
+  "crons": [
+    {
+      "id": "3e69b250-1622-4d27-8679-84db489035cf",
+      "name": "Create JIRA Page",
+      "job": "customjs:invoke-CreateJIRAPage",
+      "frequency": "* * * * *",
+      "settings": {
+        "enableMobile": false,
+        "disableSyncCheck": true
+      }
+    }
+  ],
+  "locks": {
+    "3e69b250-1622-4d27-8679-84db489035cf": {
+      "locked": true,
+      "lockedDeviceName": "KennyInthirathOSX.local",
+      "lastRun": "2024-08-16T18:02:48-07:00"
+    }
+  }
+}

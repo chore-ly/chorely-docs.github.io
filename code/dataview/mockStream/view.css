@@ -1,0 +1,9 @@
+.flexContainer {
+  display: flex;
+  min-height: 640px;
+}
+
+.flexItem {
+  display: flex;
+  flex: 1;
+}

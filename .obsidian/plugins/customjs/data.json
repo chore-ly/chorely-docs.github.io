@@ -1,0 +1,9 @@
+{
+  "jsFiles": "code/scripts/JIRA/createJIRAPage.js",
+  "jsFolder": "",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [
+    "CreateJIRAPage"
+  ],
+  "rerunStartupScriptsOnFileChange": false
+}

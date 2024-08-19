@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6d8a024ab99cbe5c","type":"group","x":-560,"y":0,"width":2520,"height":2420,"label":"Login"},
+		{"id":"7495bd9b43e9c313","type":"group","x":-480,"y":160,"width":560,"height":960,"label":"Login Unauthorized"},
+		{"id":"48e4280ac0a7e145","type":"group","x":160,"y":160,"width":540,"height":380,"label":"App Initialization"},
+		{"id":"b0927ad185deabd3","type":"text","text":"[[Login]]","x":-560,"y":0,"width":140,"height":50},
+		{"id":"36a54daebc5a0319","type":"text","text":"[[Account Sign Up]]","x":-250,"y":280,"width":195,"height":80},
+		{"id":"66e203988dd78458","type":"text","text":"[[Account Credentials Entry]]\n","x":-250,"y":420,"width":195,"height":80},
+		{"id":"b9506e275b56057c","type":"text","text":"[[Account Invite]]","x":-250,"y":540,"width":195,"height":80},
+		{"id":"d5f6dca32aadde99","type":"text","text":"[[Login Unauthorized]]","x":-480,"y":160,"width":210,"height":50},
+		{"id":"4e35b790f0393a5e","type":"text","text":"[[Account Self-Service]]","x":-250,"y":660,"width":195,"height":80},
+		{"id":"4934de868763fb12","type":"text","text":"[[App Initialization]]","x":163,"y":160,"width":180,"height":50},
+		{"id":"f52565f24ce9ee66","type":"text","text":"[[Record Synchronization]]","x":300,"y":280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9959ba1da80e2adf","fromNode":"d5f6dca32aadde99","fromSide":"bottom","toNode":"36a54daebc5a0319","toSide":"left"},
+		{"id":"d4387f95302055b7","fromNode":"d5f6dca32aadde99","fromSide":"bottom","toNode":"66e203988dd78458","toSide":"left"},
+		{"id":"99d0516effc5e910","fromNode":"d5f6dca32aadde99","fromSide":"bottom","toNode":"b9506e275b56057c","toSide":"left"},
+		{"id":"d4fc5190cb04a237","fromNode":"d5f6dca32aadde99","fromSide":"bottom","toNode":"4e35b790f0393a5e","toSide":"left"}
+	]
+}

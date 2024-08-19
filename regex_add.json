@@ -1,0 +1,13 @@
+[
+  {
+    "command": "ssmacro.replace",
+    "args": {
+      "info": "Replace Dataview Block",
+      "find": "```",
+      "replace": "// ```",
+      "all": true,
+      "reg": true,
+      "flag": "gm"
+    }
+  }
+]

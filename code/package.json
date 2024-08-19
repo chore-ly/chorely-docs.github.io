@@ -1,0 +1,25 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "NONE",
+  "private": true,
+  "scripts": {
+    "cleanjs": "nodemon --ignore *.js ./util/cleanjs.ts --project tsconfig.script.json",
+    "watch": "tsc --watch",
+    "watcher": "ts-node ./util/nodemon.ts"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/jsonpath": "^0.2.4",
+    "jsonpath": "^1.1.1",
+    "obsidian": "^1.4.0",
+    "obsidian-dataview": "^0.5.67",
+    "obsidian-jira-issue": "marc0l92/obsidian-jira-issue",
+    "obsidian-typings": "^2.2.0",
+    "typescript": "^5.5.4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "links": "multitext",
+    "startDate": "date",
+    "endDate": "date",
+    "logTags": "multitext",
+    "dateRange": "multitext",
+    "logSummary": "checkbox",
+    "figma": "multitext",
+    "logLinks": "multitext"
+  }
+}
