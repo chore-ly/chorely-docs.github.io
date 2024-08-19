@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "375f6e4eb6eed83a",
+        "id": "e53c2bde1278cb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e003d824ebdab13",
+            "id": "2183c95db0c78572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -163,19 +163,19 @@
     }
   },
   "floating": {
-    "id": "fa8c5f49ad44de91",
+    "id": "41287ddae5f154a5",
     "type": "floating",
     "children": [
       {
-        "id": "8546bc94b049d4e1",
+        "id": "6f42b04ae5f0e46d",
         "type": "window",
         "children": [
           {
-            "id": "5b23b89b39048c97",
+            "id": "94da7cd28267d171",
             "type": "tabs",
             "children": [
               {
-                "id": "5fc71c9ae0641d34",
+                "id": "303677e544da4c3f",
                 "type": "leaf",
                 "state": {
                   "type": "canvas",
@@ -193,7 +193,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 10,
+        "x": 1285,
         "y": 740,
         "width": 1265,
         "height": 690,
@@ -202,7 +202,7 @@
       }
     ]
   },
-  "active": "5fc71c9ae0641d34",
+  "active": "303677e544da4c3f",
   "lastOpenFiles": [
     "Login.md",
     "Home.md",
@@ -211,22 +211,22 @@
     "Account Self-Service.md",
     "Account Invite.md",
     "Account Credentials Entry.md",
-    "public",
-    "untitled folder",
-    "test",
+    "public/personal/daily/2024-08-18.html",
+    "public/personal/daily",
     "personal/daily/2024-08-18.md",
+    "public/public/login-flow.html",
+    "public/public/personal/daily/2024-08-18.html",
+    "public/public/lib/html/file-tree.html",
+    "public/public/personal/daily",
+    "public/public/lib/html",
+    "public/public/personal",
+    "public/public/login.html",
+    "public/public/lib",
     "Login Flow.canvas",
     "templates/km/content.md",
     "Excalidraw/Drawing 2024-08-18 13.10.11.excalidraw.md",
     "templates/km/embedded mock.md",
-    "code/node_modules/obsidian-typings/dist/obsidian-typings.api.json",
-    "code/node_modules/obsidian-typings/dist/types.d.ts",
-    "code/node_modules/obsidian-typings/dist/style-mod.d.cts",
-    "code/node_modules/obsidian-typings/dist/implementations.d.ts",
-    "code/node_modules/obsidian-typings/dist/implementations.cjs",
-    "code/node_modules/obsidian-typings/tsdoc.json",
     "code/node_modules/obsidian-typings/README.md",
-    "code/node_modules/obsidian-typings/api-extractor.json",
     "code/node_modules/obsidian-typings/CHANGELOG.md",
     "code/node_modules/obsidian-jira-issue/docs-gen/static/img/jira-count1.png",
     "code/node_modules/obsidian-jira-issue/docs-gen/static/img/home-easy-to-use1.png",

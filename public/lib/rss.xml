@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chorely]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>chorely</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 19 Aug 2024 03:34:02 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 19 Aug 2024 03:34:00 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2024-08-18]]></title><description><![CDATA[<a class="tag" href="?query=tag:admin" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#admin</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:implementation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#implementation</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chorely]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>chorely</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 19 Aug 2024 05:18:23 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 19 Aug 2024 05:18:21 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2024-08-18]]></title><description><![CDATA[<a class="tag" href="?query=tag:admin" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#admin</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> <a class="tag" href="?query=tag:implementation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#implementation</a> <a class="tag" href="?query=tag:requirement" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirement</a> 
  <br><br>
 <br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a>
 
@@ -16,6 +16,7 @@
 
 <br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
 
+<br>These cannot be changed
 <br>Example
 
 <br>Email
@@ -25,15 +26,27 @@
 <br>Etc
 
 
-<br>These will be attached to their security token
+<br>These will be attached to their security token where portability is needed
+
+<br>Additional attributes can / will be stored on the Database side of things later
+
+
 
 
 <br><a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a>
 
 <br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
-<br>Needs to map require attributes correctly
+
+<br>NOTE: Increases scope by quite a bit
+
+<br>Can be added in later
+<br>NEEDS to map require attributes correctly
 
 <br>i.e. Double check to make sure we have sufficient permission on the <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a>
+
+
+
+
 
 
 <br>See here
@@ -51,13 +64,17 @@
 
 <br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
 
-<br>Allow phone, email, or both
+<br>Allow phone, email, or custom (permanent) username
+
+<br>Would recommend just doing email for simplicity
+
+
 
 
 <br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> 
 
 <br>Mandatory or Optional
-<br>Phone number MFA requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a>
+<br>Phone number <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a>
 
 <br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a>
 
@@ -97,7 +114,7 @@
 
 
 
-]]></description><link>personal/daily/2024-08-18.html</link><guid isPermaLink="false">personal/daily/2024-08-18.md</guid><pubDate>Mon, 19 Aug 2024 02:39:27 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+]]></description><link>personal/daily/2024-08-18.html</link><guid isPermaLink="false">personal/daily/2024-08-18.md</guid><pubDate>Mon, 19 Aug 2024 05:13:47 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Flow
 <br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br><br><br><br>&lt;span&gt;-&lt;/span&gt;<br>]]></description><link>account-credentials-entry.html</link><guid isPermaLink="false">Account Credentials Entry.md</guid><pubDate>Mon, 19 Aug 2024 00:58:51 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
@@ -117,11 +134,12 @@
  <br><br><br>
 <br>Flow
 <br><br><br>All finished, good job! 👍<br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br><br><br><br>(No mocks found)<br>]]></description><link>app-initialization.html</link><guid isPermaLink="false">App Initialization.md</guid><pubDate>Mon, 19 Aug 2024 02:09:40 GMT</pubDate></item><item><title><![CDATA[To Refine]]></title><description><![CDATA[ 
- <br><br><br><br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br>Decide on <a data-href="Cognito" href="/Cognito" class="internal-link" target="_self" rel="noopener">Cognito</a> constraints 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Example<br>Email<br>Phone<br>First Name<br>Last Name<br>Etc<br>These will be attached to their security token<br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Allow phone, email, or both<br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Mandatory or Optional<br>Phone number MFA requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a><br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a><br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a><br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a><br>Create mocks for <a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a><br>Determine if <a data-href="Offline Support" href="/Offline Support" class="internal-link" target="_self" rel="noopener">Offline Support</a> is required 📅 2024-09-18 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br><a data-href="Amplify" href="/Amplify" class="internal-link" target="_self" rel="noopener">Amplify</a> Gen 2 does not have documentation for this yet<br><br><br><br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a><br>Initial project management assessment<br><a data-href="Account Sign Up" href="/account-sign-up.html" class="internal-link" target="_self" rel="noopener">Account Sign Up</a><br>
+ <br><br><br><br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br>All finished, good job! 👍<br><br><br>Decide on <a data-href="Cognito" href="/Cognito" class="internal-link" target="_self" rel="noopener">Cognito</a> constraints 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>These cannot be changed<br>Example<br>Email<br>Phone<br>First Name<br>Last Name<br>Etc<br>These will be attached to their security token where portability is needed<br>Additional attributes can / will be stored on the Database side of things later<br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>NOTE: Increases scope by quite a bit<br>Can be added in later<br>NEEDS to map require attributes correctly<br>i.e. Double check to make sure we have sufficient permission on the <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a><br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Allow phone, email, or custom (permanent) username<br>Would recommend just doing email for simplicity<br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br>Mandatory or Optional<br>Phone number <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a><br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a><br>Determine data model 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a> <a href=".?query=tag:implementation" class="tag" target="_blank" rel="noopener">#implementation</a><br>Discern if difference between <a data-href="Family Invite" href="/Family Invite" class="internal-link" target="_self" rel="noopener">Family Invite</a> and <a data-href="Referral Links" href="/Referral Links" class="internal-link" target="_self" rel="noopener">Referral Links</a><br>Create mocks for <a data-href="Account Self-Service" href="/account-self-service.html" class="internal-link" target="_self" rel="noopener">Account Self-Service</a><br>Determine if <a data-href="Offline Support" href="/Offline Support" class="internal-link" target="_self" rel="noopener">Offline Support</a> is required 📅 2024-09-18 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a><br><a data-href="Amplify" href="/Amplify" class="internal-link" target="_self" rel="noopener">Amplify</a> Gen 2 does not have documentation for this yet<br><br><br><br>13:01 <a href=".?query=tag:admin" class="tag" target="_blank" rel="noopener">#admin</a><br>Initial project management assessment<br><a data-href="Account Sign Up" href="/account-sign-up.html" class="internal-link" target="_self" rel="noopener">Account Sign Up</a><br>
 <br>Decide on <a data-href="Cognito" href="/Cognito" class="internal-link" target="_self" rel="noopener">Cognito</a> constraints 📅 2024-09-01 <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
 <br>Subtasks<br>
 <br>Decide <a data-href="User Attributes" href="/User Attributes" class="internal-link" target="_self" rel="noopener">User Attributes</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
 
+<br>These cannot be changed
 <br>Example
 
 <br>Email
@@ -131,22 +149,43 @@
 <br>Etc
 
 
-<br>These will be attached to their security token
+<br>These will be attached to their security token where portability is needed
+
+<br>Additional attributes can / will be stored on the Database side of things later
 
 
-<br>Email<br>Phone<br>First Name<br>Last Name<br>Etc<br><a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a><br>
+
+
+<br>Email<br>Phone<br>First Name<br>Last Name<br>Etc<br>Additional attributes can / will be stored on the Database side of things later<br><a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a><br>
 <br>Decide if supporting <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a> <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
-<br><a data-href="Self-Hosted IDP" href="/Self-Hosted IDP" class="internal-link" target="_self" rel="noopener">Self-Hosted IDP</a><br>
+
+<br>NOTE: Increases scope by quite a bit
+
+<br>Can be added in later
+<br>NEEDS to map require attributes correctly
+
+<br>i.e. Double check to make sure we have sufficient permission on the <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a>
+
+
+
+
+
+
+<br>Can be added in later<br>NEEDS to map require attributes correctly<br>i.e. Double check to make sure we have sufficient permission on the <a data-href="External IDP" href="/External IDP" class="internal-link" target="_self" rel="noopener">External IDP</a><br><a data-href="Self-Hosted IDP" href="/Self-Hosted IDP" class="internal-link" target="_self" rel="noopener">Self-Hosted IDP</a><br>
 <br>Decide Username usage <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
 
-<br>Allow phone, email, or both
+<br>Allow phone, email, or custom (permanent) username
+
+<br>Would recommend just doing email for simplicity
 
 
-<br>
+
+
+<br>Would recommend just doing email for simplicity<br>
 <br>Decide <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requirements <a href=".?query=tag:requirement" class="tag" target="_blank" rel="noopener">#requirement</a>
 
 <br>Mandatory or Optional
-<br>Phone number MFA requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a>
+<br>Phone number <a data-href="MFA" href="/MFA" class="internal-link" target="_self" rel="noopener">MFA</a> requires an <a data-href="Origination Number" href="/Origination Number" class="internal-link" target="_self" rel="noopener">Origination Number</a>
 
 <br><a rel="noopener" class="external-link" href="https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html" target="_blank">https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html</a>
 
